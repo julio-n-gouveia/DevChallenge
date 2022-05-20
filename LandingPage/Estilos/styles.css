@@ -30,11 +30,6 @@ nav {
     height: 10vh;
     background-color: white;
 }
-main {
-    background: url("../../Imagens/team.jpg") no-repeat center center;
-    background-size: cover;
-    height: 80vh;
-}
 
 .menu{
     list-style: none;
